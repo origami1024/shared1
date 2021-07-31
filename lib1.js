@@ -1,3 +1,4 @@
-export default function wood () {
-	console.log('version 1')
+function wood () {
+	console.log('version 2')
 }
+exports.wood = wood
